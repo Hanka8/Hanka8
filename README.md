@@ -20,5 +20,5 @@ Don't hesitate to open issues or reach out if you have questions or collaboratio
 
 ### Technologies I have learned:
 
-![HTML](https://icons8.com/icon/20909/html-5)
+![HTML, CSS, JS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fhtml-css-icon-31.png&f=1&nofb=1&ipt=2cb6e296ce9c09d3f6d416504fa2ab9cbbb1079e918527727819231f8ff62bd7&ipo=images)
 ![CSS]
