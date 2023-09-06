@@ -20,4 +20,4 @@ Don't hesitate to open issues or reach out if you have questions or collaboratio
 
 ### Technologies I have learned:
 
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg){width=10px}
