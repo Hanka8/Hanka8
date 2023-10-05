@@ -15,6 +15,22 @@ I'm a self-taught web developer with a flair for design. Welcome to my GitHub pr
 - 📧 Feel free to reach out to me at [hanka.maruskevicova@gmail.com](hanka.maruskevicova@gmail.com).
 - 👥 Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
+  **Projects**
+  [Nu Pogodi!](https://hanka8.github.io/Nu-pogodi/)
+  [CBRN specialists website](https://maacaa0.github.io/31-hana-maca-final/)
+  [Password generator (frontend mentor)](https://hanka8.github.io/FM-Password-generator/)
+  [Artist portfolio](https://hanka8.github.io/NelaMarus/)
+  [Countdown timer (frontend mentor)](https://hanka8.github.io/FM-launch-countdown-timer/)
+  [Decision maker](https://hanka8.github.io/Jen_tak_pro_radost/)
+  [To do list (frontend mentor)](https://hanka8.github.io/FM--TODO/)
+  [Rock, paper, scissors](https://hanka8.github.io/RockPaperScissors_FM/)
+  [Github user finder (frontend mentor)](https://hanka8.github.io/FM-GitHub-user-search-app/)
+  [Calculator (frontend mentor)](https://hanka8.github.io/FM-calculator-app/)
+  [Space tourism website (frontend mentor)](https://hanka8.github.io/FM-space-tourism/)
+  [Advice generator (frontend mentor)](https://hanka8.github.io/FM-advice-generator/)
+  [Tip calculator](https://hanka8.github.io/Tip-calculator-appp/)
+  
+
 Don't hesitate to open issues or reach out if you have questions or collaboration ideas. Happy coding!
 
 
