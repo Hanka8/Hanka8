@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught web developer with a flair for design. Welcome to my GitHub profile!
+I'm a self-taught frontend developer. Welcome to my GitHub profile!
 
 🌐 **About Me:**
 - As a self-taught hobby developer, I've honed my skills in HTML, CSS and JavaScript.
