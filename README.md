@@ -16,6 +16,8 @@ I'm a self-taught frontend developer. Welcome to my GitHub profile!
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
 💻 **Projects**
+  - [Countries app](https://where-countries.netlify.app/)
+  - [Vlaskolaska](https://vlaskolaska.cz/)
   - [Nu Pogodi!](https://hanka8.github.io/Nu-pogodi/)
   - [CBRN specialists website](https://maacaa0.github.io/31-hana-maca-final/)
   - [Password generator (frontend mentor)](https://hanka8.github.io/FM-Password-generator/)
@@ -31,7 +33,7 @@ I'm a self-taught frontend developer. Welcome to my GitHub profile!
   - [Tip calculator](https://hanka8.github.io/Tip-calculator-appp/)
   
 
-Don't hesitate to open issues or reach out if you have questions or collaboration ideas. Happy coding!
+Don't hesitate to reach out if you have questions or collaboration ideas. Happy coding!
 
 
 ### Technologies I am familiar with (varied proficiency):
