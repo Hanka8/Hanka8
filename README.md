@@ -103,7 +103,7 @@
         </a>
     </td>
     <td width="50%" align="left">
-        <p>I felt quite comfortable with fundamentals, so I created a website for my friend in React  <a href="https:vlaskolaska.cz">Vlaskolaska</a></p>
+        <p>I felt quite comfortable with fundamentals, so I created a website for my friend in React  <a href="https://vlaskolaska.cz">Vlaskolaska</a></p>
     </td>
   </tr>
    <tr>
