@@ -14,6 +14,25 @@
 - Feel free to reach out to me at [hanka.maruskevicova@gmail.com](hanka.maruskevicova@gmail.com).
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+        <a href="https://github.com/Hanka8/TinBird">
+          <picture>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=TinBird" alt="" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%" align="center">
+        <a href="https://github.com/RanitManik/Netflix-clone">
+          <picture>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" alt="" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
+
 💻 **Projects**
   - [Feedback app](https://fm-feedback.netlify.app/)
   - [Countries app](https://where-countries.netlify.app/)
