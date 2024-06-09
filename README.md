@@ -3,12 +3,12 @@
 I'm a self-taught frontend developer. Welcome to my GitHub profile!
 
 🌐 **About Me:**
-- As a self-taught hobby frontend-developer, I've honed my skills in HTML, CSS, JavaScript and React.
+- As a self-taught hobby frontend-developer, I've honed my skills in HTML, CSS, JavaScript, React and TypeScript.
+- I am used to work with Figma.
 - I have scratched the surface of backend with MongoDB and Node.js.
-- I have a creative side, and I love crafting visually appealing user interfaces and illustrations with open-source software like Figma, Gimp and Inkscape.
+- I have a creative side, and can perform basic graphical edits.
 
 🚀 **What I'm Up To:**
-- I enjoy building interactive web applications and responsive websites.
 - I'm currently sharpening my skills in React and TypeScript.
 
 💬 **Let's Connect:**
@@ -16,6 +16,7 @@ I'm a self-taught frontend developer. Welcome to my GitHub profile!
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
 💻 **Projects**
+  - [Feedback app](https://fm-feedback.netlify.app/)
   - [Countries app](https://where-countries.netlify.app/)
   - [Vlaskolaska](https://vlaskolaska.cz/)
   - [Nu Pogodi!](https://hanka8.github.io/Nu-pogodi/)
