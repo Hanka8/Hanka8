@@ -26,8 +26,21 @@
         </a>
     </td>
     <td width="50%" align="center">
-        <p>My web-dev journey began with <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?campaigntype=Search&portfolio=BrandTopic&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&matchtype=b&gad_source=1&couponCode=OF52424">Complete web development bootcamp</a>a> on Udemy</p>
-        <p>I created this cringy website and felt like a pro hacker - <a href="https://hanka8.github.io/TinBird/">TinBird</a></p>
+        <p>My web-dev journey began with <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?campaigntype=Search&portfolio=BrandTopic&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&matchtype=b&gad_source=1&couponCode=OF52424">Complete web development bootcamp</a> on Udemy</p>
+        <p>I created this cringey website using bootstrap and felt like a hacker - <a href="https://hanka8.github.io/TinBird/">TinBird</a></p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" align="center">
+        <a href="https://github.com/Hanka8/TinBird">
+          <picture>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=Beeps" alt="" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%" align="center">
+        <p>I continued the course and discovered JavaScript, so I started to create even more cringey websites</p>
+        <p>One of them was this tool to communicate with my birds - <a href="https://hanka8.github.io/Birdpage/drumindex.html">Beep kit</a></p>
     </td>
   </tr>
 </table>
