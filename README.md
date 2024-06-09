@@ -33,11 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanka8&show_icons=true&locale=en" alt="hanka8" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hana maruškevičová" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana maruškevičová" height="30" width="40" /></a>
-</p>
-
 Don't hesitate to reach out if you have questions or collaboration ideas. Happy coding!
 
 
