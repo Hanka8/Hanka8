@@ -34,7 +34,7 @@
     <td width="50%" align="center">
         <a href="https://github.com/Hanka8/TinBird">
           <picture>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=Beeps" alt="" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=Birdpage" alt="" />
           </picture>
         </a>
     </td>
