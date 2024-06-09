@@ -14,6 +14,8 @@
 - Feel free to reach out to me at [hanka.maruskevicova@gmail.com](hanka.maruskevicova@gmail.com).
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
+<h2>My journey</h2>
+
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
@@ -24,11 +26,8 @@
         </a>
     </td>
     <td width="50%" align="center">
-        <a href="https://github.com/RanitManik/Netflix-clone">
-          <picture>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RanitManik&repo=Netflix-clone" alt="" />
-          </picture>
-        </a>
+        <p>My web-dev journey began with <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?campaigntype=Search&portfolio=BrandTopic&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&matchtype=b&gad_source=1&couponCode=OF52424">Complete web development bootcamp</a>a> on Udemy</p>
+        <p>I created this cringy website and felt like a pro hacker - <a href="https://hanka8.github.io/TinBird/">TinBird</a></p>
     </td>
   </tr>
 </table>
