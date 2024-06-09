@@ -34,14 +34,6 @@
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hanka8/count.svg?"  />
-</div>
-
-###
-
 Don't hesitate to reach out if you have questions or collaboration ideas. Happy coding!
 
 
