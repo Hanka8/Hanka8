@@ -122,7 +122,7 @@
     <td width="50%" align="center">
         <a href="https://github.com/Hanka8/FM-product-feedback ">
           <picture>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=FM-product-feedback " alt="" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hanka8&repo=FM-product-feedback" alt="" />
           </picture>
         </a>
     </td>
