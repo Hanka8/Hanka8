@@ -115,7 +115,7 @@
         </a>
     </td>
     <td width="50%" align="left">
-        <p>I learned how to add TypeScript and created this countries finder using REST API (currently slow) as a frontend mentor project <a href="https://where-countries.netlify.app">Countries</a></p>
+        <p>I learned how to use TypeScript and created this countries finder using REST API (currently slow) as a frontend mentor project <a href="https://where-countries.netlify.app">Countries</a></p>
     </td>
   </tr>
   <tr>
