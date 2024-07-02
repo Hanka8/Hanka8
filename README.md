@@ -18,7 +18,7 @@
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
 
 <br>
-<h2>My journey</h2>
+<h2 align="center">My journey</h2>
 
 <table width="100%" align="center">
   <tr>
