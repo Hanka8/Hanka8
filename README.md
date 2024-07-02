@@ -19,6 +19,7 @@
 
 <br>
 <h2 align="center">My journey</h2>
+<br>
 
 <table width="100%" align="center">
   <tr>
