@@ -13,6 +13,12 @@
 🚀 **What I'm Up To:**
 - I'm currently sharpening my skills in React and TypeScript.
 
+🦆 **My hobbies**
+- I like to play games on my Xbox as PeachCrayon2746
+- I like to hike in our lovely Czech mountains
+- I like to exercise to stay fit
+- I like birds and birdwatching
+
 💬 **Let's Connect:**
 - Feel free to reach out to me at [hanka.maruskevicova@gmail.com](hanka.maruskevicova@gmail.com).
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/hana-maruškevičová-11287127b/) for professional networking.
