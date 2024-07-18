@@ -1,3 +1,5 @@
+![li-cover](https://github.com/user-attachments/assets/0f4e3916-13f8-42da-87b9-5831c2d73038)
+
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 
