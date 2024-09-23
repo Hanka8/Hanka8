@@ -11,7 +11,7 @@
 - I have a creative side, and can perform basic graphical edits.
 
 🚀 **What I'm Up To:**
-- I'm currently sharpening my skills in React and TypeScript.
+- I'm currently learning Next.js
 
 🦆 **My hobbies**
 - I like to play games on my Xbox as PeachCrayon2746
